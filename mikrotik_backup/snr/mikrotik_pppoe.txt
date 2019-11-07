@@ -1,0 +1,17 @@
+/interface vlan
+add interface=ether1 loop-protect-disable-time=0s name=ether1.2006 vlan-id=2006
+/interface bridge
+add fast-forward=no name=br_vl_BRAS protocol-mode=none
+/interface bridge port
+set bridge=br_vl_PPPoE disabled=yes
+add bridge=br_vl_BRAS interface=wlan1.375
+/ip address
+add address=192.168.100.1 interface=br_vl_BRAS network=192.168.100.1
+/system identity
+set name=accel-ppp
+/radius
+add accounting-port=1815 address=192.168.0.4 authentication-port=1814 secret=ctrhtn service=ppp
+/radius incoming
+set accept=yes port=1814
+/interface pppoe-server server
+add disabled=no interface=br_vl_BRAS one-session-per-host=yes

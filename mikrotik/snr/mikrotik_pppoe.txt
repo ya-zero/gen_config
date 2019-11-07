@@ -1,0 +1,29 @@
+/interface vlan
+add interface=ether1 loop-protect-disable-time=0s name=ether1.{{vlanid}} vlan-id={{vlanid}}
+
+/interface bridge
+add fast-forward=no name=br_vl_BRAS protocol-mode=none
+
+/ip address
+add address=192.168.100.1 interface=br_vl_BRAS network=192.168.100.1
+add address=10.2.{{subnet}}.{{sector_ip}}/24 interface=ether1.{{vlanid}} network=10.2.{{subnet}}.0
+
+/system identity
+set name=accel-ppp
+
+/radius
+add accounting-port=1815 address=192.168.0.4 authentication-port=1814 secret=ctrhtn service=ppp
+
+/radius incoming
+set accept=yes port=1814
+
+/interface pppoe-server server
+add disabled=no interface=br_vl_BRAS one-session-per-host=no
+
+/ppp profile
+set *0 dns-server=8.8.8.8,8.8.4.4 local-address=192.168.100.1 only-one=yes rate-limit=1M/1M \
+    use-compression=no use-encryption=no use-mpls=no
+
+/ppp aaa
+set use-radius=yes
+

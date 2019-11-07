@@ -1,0 +1,4 @@
+{% include 'mikrotik_pppoe.txt' %}
+{% include 'mikrotik_ospf.txt' %}
+{% include 'mikrotik_firewall.txt' %}
+{% include 'mikrotik_bridge.txt' %}

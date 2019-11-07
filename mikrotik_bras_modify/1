@@ -1,0 +1,366 @@
+192.168.30.0 not ping
+192.168.30.1 add command
+no auth
+192.168.30.2 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.3 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.4 not ping
+192.168.30.5 not ping
+192.168.30.6 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.7 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.8 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.9 not ping
+192.168.30.10 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.11 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.12 not ping
+192.168.30.13 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.14 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.15 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.16 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.17 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.18 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.19 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.20 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.21 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.22 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.23 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.24 not ping
+192.168.30.25 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.26 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.27 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.28 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.29 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.30 not ping
+192.168.30.31 not ping
+192.168.30.32 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.33 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.34 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.35 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.36 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.37 not ping
+192.168.30.38 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.39 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.40 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.41 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.42 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.43 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.44 not ping
+192.168.30.45 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.46 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.47 not ping
+192.168.30.48 not ping
+192.168.30.49 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.50 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.51 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.52 not ping
+192.168.30.53 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.54 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.55 not ping
+192.168.30.56 not ping
+192.168.30.57 not ping
+192.168.30.58 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.59 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.60 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.61 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.62 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.63 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.64 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.65 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.66 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.67 add command
+b'Flags: X - disabled \r\n\r\n'
+192.168.30.68 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.69 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.70 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.71 not ping
+192.168.30.72 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.73 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.74 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.75 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.76 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.77 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.78 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.79 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.80 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.81 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.82 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.83 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.84 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.85 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.86 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.87 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.88 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.89 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.90 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.91 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.92 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.93 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.94 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.95 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.96 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.97 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.98 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.99 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.100 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.101 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.102 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.103 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.104 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.105 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.106 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.107 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.108 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.109 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.110 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.111 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.112 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.113 add command
+b'Flags: X - disabled, I - invalid \r\n\r\n'
+192.168.30.114 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.115 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.116 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.117 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.118 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.119 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.120 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.121 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.122 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.123 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.124 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.125 add command
+b'Flags: X - disabled, I - invalid \r\n 0   service-name="" interface=br_vl_BRAS max-mtu=auto max-mru=auto \r\n     mrru=disabled authentication=pap,chap,mschap2 keepalive-timeout=10 \r\n     one-session-per-host=yes max-sessions=unlimited pado-delay=0 \r\n     default-profile=default \r\n\r\n'
+192.168.30.126 not ping
+192.168.30.127 not ping
+192.168.30.128 not ping
+192.168.30.129 not ping
+192.168.30.130 not ping
+192.168.30.131 not ping
+192.168.30.132 not ping
+192.168.30.133 not ping
+192.168.30.134 not ping
+192.168.30.135 not ping
+192.168.30.136 not ping
+192.168.30.137 not ping
+192.168.30.138 not ping
+192.168.30.139 not ping
+192.168.30.140 not ping
+192.168.30.141 not ping
+192.168.30.142 not ping
+192.168.30.143 not ping
+192.168.30.144 not ping
+192.168.30.145 not ping
+192.168.30.146 not ping
+192.168.30.147 not ping
+192.168.30.148 not ping
+192.168.30.149 not ping
+192.168.30.150 not ping
+192.168.30.151 not ping
+192.168.30.152 not ping
+192.168.30.153 not ping
+192.168.30.154 not ping
+192.168.30.155 not ping
+192.168.30.156 not ping
+192.168.30.157 not ping
+192.168.30.158 not ping
+192.168.30.159 not ping
+192.168.30.160 not ping
+192.168.30.161 not ping
+192.168.30.162 not ping
+192.168.30.163 not ping
+192.168.30.164 not ping
+192.168.30.165 not ping
+192.168.30.166 not ping
+192.168.30.167 not ping
+192.168.30.168 not ping
+192.168.30.169 not ping
+192.168.30.170 not ping
+192.168.30.171 not ping
+192.168.30.172 not ping
+192.168.30.173 not ping
+192.168.30.174 not ping
+192.168.30.175 not ping
+192.168.30.176 not ping
+192.168.30.177 not ping
+192.168.30.178 not ping
+192.168.30.179 not ping
+192.168.30.180 not ping
+192.168.30.181 not ping
+192.168.30.182 not ping
+192.168.30.183 not ping
+192.168.30.184 not ping
+192.168.30.185 not ping
+192.168.30.186 not ping
+192.168.30.187 not ping
+192.168.30.188 not ping
+192.168.30.189 not ping
+192.168.30.190 not ping
+192.168.30.191 not ping
+192.168.30.192 not ping
+192.168.30.193 not ping
+192.168.30.194 not ping
+192.168.30.195 not ping
+192.168.30.196 not ping
+192.168.30.197 not ping
+192.168.30.198 not ping
+192.168.30.199 not ping
+192.168.30.200 not ping
+192.168.30.201 not ping
+192.168.30.202 not ping
+192.168.30.203 not ping
+192.168.30.204 not ping
+192.168.30.205 not ping
+192.168.30.206 not ping
+192.168.30.207 not ping
+192.168.30.208 not ping
+192.168.30.209 not ping
+192.168.30.210 not ping
+192.168.30.211 not ping
+192.168.30.212 not ping
+192.168.30.213 not ping
+192.168.30.214 not ping
+192.168.30.215 not ping
+192.168.30.216 not ping
+192.168.30.217 not ping
+192.168.30.218 not ping
+192.168.30.219 not ping
+192.168.30.220 not ping
+192.168.30.221 not ping
+192.168.30.222 not ping
+192.168.30.223 not ping
+192.168.30.224 not ping
+192.168.30.225 not ping
+192.168.30.226 not ping
+192.168.30.227 not ping
+192.168.30.228 not ping
+192.168.30.229 not ping
+192.168.30.230 not ping
+192.168.30.231 not ping
+192.168.30.232 not ping
+192.168.30.233 not ping
+192.168.30.234 not ping
+192.168.30.235 not ping
+192.168.30.236 not ping
+192.168.30.237 not ping
+192.168.30.238 not ping
+192.168.30.239 not ping
+192.168.30.240 not ping
+192.168.30.241 not ping
+192.168.30.242 not ping
+192.168.30.243 not ping
+192.168.30.244 not ping
+192.168.30.245 not ping
+192.168.30.246 not ping
+192.168.30.247 not ping
+192.168.30.248 not ping
+192.168.30.249 not ping
+192.168.30.250 not ping
+192.168.30.251 not ping
+192.168.30.252 add command
+no auth
+192.168.30.253 not ping
+192.168.30.254 not ping
+192.168.30.255 not ping

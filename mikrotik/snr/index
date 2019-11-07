@@ -1,0 +1,10 @@
+#создание базового конфига для коммутатора
+snr_switch_template
+  snr_base
+  snr_authen_radius
+  snr_vlan_mgmt
+mikrotik_sector_template
+  mikrotik_pppoe
+  mikrotik_ospf
+  mikrotik_bridge
+  mikrotik_firewall

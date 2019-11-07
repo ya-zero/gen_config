@@ -1,0 +1,31 @@
+switch:
+- device_type: cisco_ios
+  ip: 192.168.1.1
+  username: admin
+  password: reinfokom
+
+
+switch_des_3010:
+- device_type: cisco_ios
+  ip: 192.168.1.1
+  username: admin
+  password: reinfokom
+
+- device_type: cisco_ios
+  ip: 192.168.1.1
+  username: admin
+  password: reinfokom
+
+
+switch_des_3028:
+- device_type: cisco_ios
+  ip: 192.168.1.1
+  username: admin
+  password: reinfokom
+
+- device_type: cisco_ios
+  ip: 192.168.1.1
+  username: admin
+  password: reinfokom
+
+

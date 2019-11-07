@@ -1,0 +1,4 @@
+
+/interface bridge port set bridge=br_vl_BRAS [find interface=wlan1.375]
+
+/interface bridge filter set chain=input in-bridge=br_vl_BRAS    [find where  chain=forward]

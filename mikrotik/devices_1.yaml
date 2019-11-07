@@ -1,0 +1,50 @@
+switch:
+- device_type: cisco_ios
+  ip: 192.168.1.1
+  username: admin
+  password: reinfokom
+
+mikrotik:
+- device_type: cisco_ios
+  ip: 192.168.30.2
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.3
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.36
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.58
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.43
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.77
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.88
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.89
+  username: root
+  password: 1abrakadabra2
+- device_type: cisco_ios
+  ip: 192.168.30.104
+  username: root
+  password: 1abrakadabra2
+
+
+
+
+
+
+

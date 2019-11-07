@@ -1,0 +1,64 @@
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+MikroTik v6.44 (stable)
+Login: 
+
+Password: 
+DEBUG:netmiko:write_channel: b'root\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+Login failed, incorrect username or password
+
+Login: Password: 
+DEBUG:netmiko:write_channel: b'root\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+Login failed, incorrect username or password
+
+Login: Password: 
+DEBUG:netmiko:write_channel: b'root\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+MikroTik v6.44 (stable)
+Login: 
+
+Password: 
+DEBUG:netmiko:write_channel: b'root\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+Login failed, incorrect username or password
+
+Login: Password: 
+DEBUG:netmiko:write_channel: b'root\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+Login failed, incorrect username or password
+
+Login: Password: 
+DEBUG:netmiko:write_channel: b'root\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:write_channel: b'\r\n'

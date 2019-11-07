@@ -1,0 +1,6 @@
+view:
+ -/interface print
+
+edit:
+ - /interface number=0 set disable
+

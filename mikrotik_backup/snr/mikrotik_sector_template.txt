@@ -1,0 +1,2 @@
+{% include 'mikrotik_pppoe.txt' %}
+{% include 'mikrotik_ospf.txt' %}

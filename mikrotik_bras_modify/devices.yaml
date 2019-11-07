@@ -1,0 +1,5 @@
+  device_type: cisco_ios
+  ip: 192.168.30.3
+  username: root+t500h
+  password: 1abrakadabra2
+
