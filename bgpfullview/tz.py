@@ -47,8 +47,8 @@ ip_networks=[]
 with open (filename,'r') as  bgpfull:
    for  i in bgpfull:
      result=re.split(r' +',i)
-     if result[0] == '*': 
-      if as_num in result[-2]:
+     if result[0] == '*' and as_num in result[-2]: 
+#      if as_num in result[-2]:
         ip_networks.append(result[1])
    ip_networks=set(ip_networks)
    ip_result=copy.deepcopy(list(ip_networks))
