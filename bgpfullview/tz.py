@@ -46,9 +46,10 @@ filename = argv[1]
 ip_networks=[]
 with open (filename,'r') as  bgpfull:
    for  i in bgpfull:
-     if as_num in i:
-      result=re.split(r' +',i)
-      ip_networks.append(result[1])
+     result=re.split(r' +',i)
+     if result[0] == '*': 
+      if as_num in result[-2]:
+        ip_networks.append(result[1])
    ip_networks=set(ip_networks)
    ip_result=copy.deepcopy(list(ip_networks))
    new_result=copy.deepcopy(list(ip_networks))
@@ -60,6 +61,7 @@ with open (filename,'r') as  bgpfull:
           if  a.subnet_of(b) and a != b:
               ip_network_pref_del.remove(str(a))
 
-
+print (len(ip_network_pref_del))
 create_table()
 sqlite_insert(ip_network_pref_del,as_num)
+
